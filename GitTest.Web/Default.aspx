@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-      This is the original version of GitTest
+      This is the 1.1 version of GitTest
     </div>
     </form>
 </body>
