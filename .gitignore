@@ -1,0 +1,5 @@
+_ReSharper.GitTest/
+GitTest.Web/bin/
+GitTest.Web/obj/
+*.suo
+*.user
